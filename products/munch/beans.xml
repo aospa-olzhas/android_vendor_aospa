@@ -7,9 +7,11 @@
   <include name="../platforms/kona.xml" />
 
   <project path="device/xiaomi/munch" name="device_xiaomi_munch" remote="aospa-olzhas" revision="beryl" />
+  <project path="device/xiaomi/sm8250" name="device_xiaomi_sm8250-common" remote="aospa-olzhas" revision="beryl" />
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="aospa-olzhas" revision="beryl" />
   <project path="kernel/msm-4.19" name="kernel_xiaomi_munch" remote="aospa-olzhas" revision="beryl" />
   <project path="vendor/nxp/opensource/halimpl" name="AOSPA/android_vendor_nxp_opensource_halimpl" remote="aospa" revision="uvite-SN100X-legacy" />
   <project path="vendor/nxp/opensource/hidlimpl" name="AOSPA/android_vendor_nxp_opensource_hidlimpl" remote="aospa" revision="uvite-SN100X-legacy" />
   <project path="vendor/xiaomi/munch" name="vendor_xiaomi_munch" remote="aospa-olzhas" revision="beryl" />
+  <project path="vendor/xiaomi/sm8250" name="vendor_xiaomi_sm8250-common" remote="aospa-olzhas" revision="beryl" />
 </manifest>
